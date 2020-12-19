@@ -1,4 +1,4 @@
-[![Made with Python](https://img.shields.io/static/v1?label=Python&message=3.7&color=<COLOR>&style=flat&logo=Python)](https://visualstudio.microsoft.com/pt-br/vs/)
+[![Made with Python](https://img.shields.io/static/v1?label=Python&message=3.7&color=<COLOR>&style=flat&logo=Python)](https://www.python.org/)
 [![Made with VS](https://img.shields.io/static/v1?label=Visual%20Studio&message=2019&color=<COLOR>&style=flat&logo=Visual-Studio-Code)](https://visualstudio.microsoft.com/pt-br/vs/)
 [![License](https://img.shields.io/apm/l/vim-mode?color=blue)](http://badges.mit-license.org)
 
@@ -40,7 +40,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## 📚 Bibliotecas
 As seguintes bibliotecas foram usadas na construção do projeto:
-- [Paho MQTT](https://pypi.org/project/paho-mqtt/)
+- [Paho MQTT](- [Paho MQTT](https://pypi.org/project/paho-mqtt/))
 
 ## ▶️ Running
 
