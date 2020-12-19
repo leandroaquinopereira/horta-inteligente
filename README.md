@@ -11,7 +11,7 @@
 
 <h3 align="center"> 
   
-  <img src="https://github.com/leandroaquinopereira/C214-Trab/blob/master/Cenas.png" >
+  <img src="https://github.com/leandroaquinopereira/horta-inteligente/blob/master/Phone_Project.png" >
    Status: Concluído  :white_check_mark:
 </h3>
 
