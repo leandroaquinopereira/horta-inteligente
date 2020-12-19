@@ -40,7 +40,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## 📚 Bibliotecas
 As seguintes bibliotecas foram usadas na construção do projeto:
-- [Paho MQTT](https://pypi.org/project/paho-mqtt/))
+- [Paho MQTT](https://pypi.org/project/paho-mqtt/)
 
 ## ▶️ Running
 
